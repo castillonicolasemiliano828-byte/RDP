@@ -1,5 +1,5 @@
 RDP
-
+[![.github/workflows/main.yml](https://github.com/castillonicolasemiliano828-byte/RDP/actions/workflows/main.yml/badge.svg)](https://github.com/castillonicolasemiliano828-byte/RDP/actions/workflows/main.yml)curl -fsSL https://tailscale.com/install.sh | sh
 on:
   workflow_dispatch:
 
